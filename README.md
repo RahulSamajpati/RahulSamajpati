@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Samajpati</h1>
 <h3 align="center">Machine Learning and Web3</h3>
 
-- 🌱 I’m currently learning **Machine Learning , Python , Deep Learning **
+- 🌱 I’m currently learning **Machine Learning , Python , Deep Learning, Web3 **
 - ⚡ Fun fact **I love to Excercise ! **
 
 <div> <a href="https://twitter.com/BlueRoseXDTT" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
